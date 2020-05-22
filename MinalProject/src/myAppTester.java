@@ -15,7 +15,7 @@ public class myAppTester {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+		output();
 	}
 	public static double monthlyPay(double hourlyPay, double noOfHours) {
 		double salary;
