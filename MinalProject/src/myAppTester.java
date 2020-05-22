@@ -25,7 +25,7 @@ public class myAppTester {
 	public static void output() {
 		Scanner input=new Scanner(System.in);
 		System.out.println("Hello Software Engineering World");
-
+		System.out.println("Hellooooo");
 		System.out.println("Hi My name is Minal");
 
 		System.out.println("Enter Hourly Pay: ");
